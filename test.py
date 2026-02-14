@@ -27,7 +27,6 @@ if __name__ == "__main__":
         User("nirmit75", Role.MEMBER),
         User("nirmit56", Role.MEMBER),
     ]
-
     admins = list(filter(lambda user: user.role == Role.ADMIN, users))
 
     print("--- List of admins ---")
