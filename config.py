@@ -1,5 +1,5 @@
 """
-Logger Setup
+Setup
 """
 
 import os
@@ -7,6 +7,7 @@ import logging
 import datetime
 
 
+# Logging configuration
 logs_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logs")
 os.makedirs(logs_dir, exist_ok=True)
 
