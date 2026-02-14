@@ -23,13 +23,11 @@ if __name__ == "__main__":
         User("nirmit27", Role.ADMIN),
         User("nirmit33", Role.MEMBER),
         User("nirmit45", Role.ADMIN),
-        User("nirmit34", Role.ADMIN),
         User("nirmit75", Role.MEMBER),
-        User("nirmit56", Role.MEMBER),
     ]
     admins = list(filter(lambda user: user.role == Role.ADMIN, users))
 
-    print("--- List of admins ---")
+    print("--- Admins ---")
     for i, admin in enumerate(admins):
         print(f"    #{i + 1}. {admin.name}")
 
