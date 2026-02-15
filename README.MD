@@ -4,5 +4,5 @@
 
 | Name | Picture |
 |----|-----|
-|[Messerschmitt Me-262](./images/me_262.png)|![Me-262](./images/me_262.png)|
+|Messerschmitt Me-262|![Me-262](./images/me_262.png)|
 ---
