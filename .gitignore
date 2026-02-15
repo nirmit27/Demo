@@ -1,2 +1,12 @@
 # Secrets
 .env
+
+# Cache
+__pycache__
+*/__pycache__
+**/__pycache__
+
+# Logging
+/logs
+*/logs
+**/logs

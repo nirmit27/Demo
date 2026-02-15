@@ -1,5 +1,7 @@
 """
-Longest Common Subsequence mit logging
+Longest Common Subsequence
+
+Added logging and execution time logic for better understanding.
 """
 
 import config
