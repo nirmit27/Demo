@@ -24,16 +24,17 @@ def lcs(a, b):
     return dp[m][n]
 
 
+@config.timer
 def main():
-    a, b = "abc", "abcde"
-    logging.info(f"Input strings : `{a}`, `{b}`")
+    a, b = "abceufhgewfgewugfweigfquigqi", "abcdefiegfewfgifguifggfquigfiqfg"
+    logging.info(f"Input strings: `{a}`, `{b}`")
 
     res = lcs(a, b)
-    logging.info(f"Result : {res}")
+    logging.info(f"Result: {res}")
 
 
 # Driver code
 if __name__ == "__main__":
     logging.info("LCS computation initiated ...")
     main()
-    logging.info("LCS computation complete!")
+    logging.info("LCS computation complete")

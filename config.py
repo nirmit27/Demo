@@ -3,8 +3,22 @@ Setup
 """
 
 import os
+import time
 import logging
 import datetime
+
+
+def timer(func):
+    def wrapper(*args, **kwargs):
+        st = time.perf_counter()
+
+        func(*args, **kwargs)
+
+        et = time.perf_counter()
+
+        logging.info(f"Time elapsed: {(et - st):.2f} seconds")
+
+    return wrapper
 
 
 # Logging configuration
