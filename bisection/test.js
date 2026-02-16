@@ -1,3 +1,3 @@
 // Simulating a scenario for bisection
 
-console.log("hello friend... we live in a simulation");
+console.log("hello friend... we live in a simulation - v2");
