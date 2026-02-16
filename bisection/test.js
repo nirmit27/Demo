@@ -1,3 +1,6 @@
-// Simulating a scenario for bisection
+// Generating HASH
 
-console.log("hello friend... we live in a simulation");
+import crypto from "crypto";
+
+const hash = crypto.createHash("sha256").update("hello_friend").digest("hex");
+console.log(hash);
