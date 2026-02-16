@@ -1,6 +1,8 @@
-# Demo
+# Git Assignment - Demo
 
-### I was not quite sure what to put here... so, here is a picture of my favorite jet fighter plane.
+### This is just a test.
+
+Here is the picture of a German jet fighter plane.
 
 | Name | Picture |
 |----|-----|
