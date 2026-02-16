@@ -1,10 +1,5 @@
 # Demo
 
-#### _What was that? It went right past us like we were standing still!_
+Some of the **best practices** for backend development.
 
-### It was the first ever jet fighter... the Me-262.
-
-| Model | Picture |
-|----|-----|
-|Messerschmitt Me-262|![Me-262](./images/me_262.png)|
 ---

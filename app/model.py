@@ -1,5 +1,5 @@
 """
-Data model(s)
+Data models
 """
 
 from enum import Enum
