@@ -13,7 +13,7 @@ app = FastAPI()
 # Routing
 @app.get("/")
 def root():
-    return {"message": "hello friend 🌐"}
+    return {"message": "hello friend"}
 
 
 @app.get("/users/{uname}")
@@ -29,4 +29,4 @@ def create_user(user: User):
 
 @app.get("/greet/{uname}")
 def greet_user(uname: str):
-    return {"message": f"Hello, {uname}! 👋"}
+    return {"message": f"Hello, {uname}."}
