@@ -1,8 +1,6 @@
 # Git Assignment
 
-### This is just a test.
-
-Here is a picture of the **Russian** jet fighter plane.
+Here is a picture of one of the most famous **Russian** jet fighter planes.
 
 | Name | Picture |
 |----|-----|

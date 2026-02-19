@@ -1,5 +1,5 @@
 """
-Setup
+Setup and configuration
 """
 
 import os
