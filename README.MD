@@ -1,10 +1,11 @@
-# Git Assignment - Demo
+# Git Assignment
 
 ### This is just a test.
 
-Here is the picture of a German jet fighter plane.
+Here is a picture of the **Russian** jet fighter plane.
 
 | Name | Picture |
 |----|-----|
-|Messerschmitt Me-262|![Me-262](./images/me_262.png)|
+|Mig-21 Fishbed|![Mig-21](./images/mig_21.png)|
+
 ---
